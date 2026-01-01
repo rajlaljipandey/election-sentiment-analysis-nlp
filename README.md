@@ -43,7 +43,7 @@ This project is useful for **journalists, political analysts, researchers, stude
 | Screen | Preview |
 |--------|---------|
 | 🏠 Home | <img src="assets/ui-home.png" width="420"/> |
-| 📝 Analyse Tweet | <img src="assets/ui-analyse.png" width="420"/> |
+| 📝 Analyze Tweet | <img src="assets/ui-analyze.png" width="420"/> |
 | 📁 CSV Upload | <img src="assets/ui-csv.png" width="420"/> |
 | 📊 Dashboard | <img src="assets/ui-dashboard.png" width="420"/> |
 
