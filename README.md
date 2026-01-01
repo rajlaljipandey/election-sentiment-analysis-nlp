@@ -62,30 +62,6 @@ This project is useful for **journalists, political analysts, researchers, stude
 
 ---
 
-## 📁 Folder Structure
-
-📦 election-sentiment-analysis-nlp
-│── app.py
-│── requirements.txt
-│── sentiment_model.pkl
-│── tfidf_vectorizer.pkl
-│── README.md
-│── assets/
-│ ├── banner.png
-│ ├── ui-home.png
-│ ├── ui-analyze.png
-│ ├── ui-csv.png
-│ ├── ui-dashboard.png
-│── src/
-│── models/
-│── notebooks/
-│── reports/
-│── sample.csv
-│── .gitignore (recommended)
-
-
----
-
 ## 🚀 Run Locally
 
 ### 1️⃣ Clone Repo
