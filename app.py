@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import pandas as pd
-import snscrape.modules.twitter as sntwitter
 from deep_translator import GoogleTranslator
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
