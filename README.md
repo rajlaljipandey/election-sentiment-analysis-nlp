@@ -62,20 +62,6 @@ This project is useful for **journalists, political analysts, researchers, stude
 
 ---
 
-## 🚀 Run Locally
-
-### 1️⃣ Clone Repo
-```bash
-git clone https://github.com/rajlaljipandey/election-sentiment-analysis-nlp.git
-cd election-sentiment-analysis-nlp
-2️⃣ Install Requirements
-bash
-Copy code
-pip install -r requirements.txt
-3️⃣ Launch App
-bash
-Copy code
-streamlit run app.py
 🧪 Example Sentiment Outputs
 bash
 Copy code
@@ -96,13 +82,13 @@ Tweet → Language Detection → Auto Translation
 Format	Usage
 📄 PDF	Full sentiment report
 📑 CSV	Tweet-wise prediction export
-
+---
 👨‍💻 Developer
 👤 Raj Lalji Pandey
 🌐 Portfolio — https://rajlaljipandey.github.io/
 🧠 GitHub — https://github.com/rajlaljipandey
 ✉️ Email — rajlaljipandey@gmail.com
-
+---
 📜 License
 Licensed under MIT License – Free to use, modify & distribute.
 
