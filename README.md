@@ -73,24 +73,25 @@ Input: "सरकार कुछ नहीं कर रही"
 → 😡 Negative (87.9%)
 ⚙️ How It Works (Pipeline)
 mathematica
-Copy code
+C
 Tweet → Language Detection → Auto Translation
      → TF-IDF Vectorizer → ML Model (LogReg)
      → Output Sentiment (Positive / Negative)
      → Dashboard UI → Export CSV / PDF
-📤 Export Options
+     
+**📤 Export Options**
 Format	Usage
 📄 PDF	Full sentiment report
 📑 CSV	Tweet-wise prediction export
----
-👨‍💻 Developer
+
+**👨‍💻 Developer**
 👤 Raj Lalji Pandey
 🌐 Portfolio — https://rajlaljipandey.github.io/
 🧠 GitHub — https://github.com/rajlaljipandey
 ✉️ Email — rajlaljipandey@gmail.com
----
-📜 License
+
+**📜 License**
 Licensed under MIT License – Free to use, modify & distribute.
 
-⭐ Support
+**⭐ Support**
 If this helped you, please star ⭐ the repository to support its growth!
