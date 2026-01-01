@@ -1,9 +1,9 @@
 streamlit
-scikit-learn
-joblib
 pandas
-numpy
-nltk
-matplotlib
-seaborn
+joblib
+scikit-learn
+deep-translator
 snscrape
+matplotlib
+wordcloud
+reportlab
