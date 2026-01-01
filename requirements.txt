@@ -1,8 +1,8 @@
 streamlit
 pandas
 joblib
+scikit-learn
+matplotlib
 deep-translator
 wordcloud
-matplotlib
 reportlab
-scikit-learn
